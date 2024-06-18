@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { List, MusicNotesMinus, UserCircle } from "@phosphor-icons/react";
+import { List, UserCircle } from "@phosphor-icons/react";
 import {
   LiAnchor,
   LiItem,
