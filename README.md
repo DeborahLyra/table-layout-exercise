@@ -9,3 +9,4 @@ Utilizei o localhost do próprio navegador para armazenar informações. No proj
 
 O projeto se encontra responsivo.
 
+https://table-layout-exercise-2yvyzs1b5-deborahlyras-projects.vercel.app
